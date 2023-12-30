@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hey! I'm Herian, currently pursuing a degree in Mathematical and Earth Sciences at UFRJ. I work as a researcher at the Laboratory for the Application of Environmental Satellites (LASA - UFRJ) 🛰️ 🌎</samp></h4>
+<h4 align="center"><samp> Hey! I'm Herian, currently pursuing a degree in Mathematical and Earth Sciences at UFRJ. I work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎</samp></h4>
 
 
 <p align="center"><samp>
