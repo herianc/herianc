@@ -1,5 +1,5 @@
 <h4><samp> Hey! </samp></h4>
-<p><samp> I'm Herian, currently pursuing a degree in Mathematical and Earth Sciences at Federal University of Rio de Janeiro. I work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎</samp>
+<p><samp> I'm Herian, currently pursuing a degree in Mathematical and Earth Sciences at Federal University of Rio de Janeiro and I also work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎</samp>
 
 
 <p><samp>
