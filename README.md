@@ -1,5 +1,8 @@
 <h4><samp> Hello, World!</samp></h4>
-<p><samp> My name is Herian, I am from Brazil and I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro. I also work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎</samp>
+<p><samp> My name is Herian, I am from Brazil and I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro. </samp>
+  
+  
+ <samp> I also work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎</samp>
 
 
 <p><samp>
