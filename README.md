@@ -6,8 +6,13 @@
 
 
 <p><samp>
-  Languages and tools<br>
-   <img height = 40 wideth = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-   <img height = 40 wideth = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-   <img height = 40 wideth = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img height = 40 wideth = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></samp>
+  Languages and tools<br></samp>
+   <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+   <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+   <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />       
+   <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+   <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+   <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   
+          
+
