@@ -1,4 +1,4 @@
-<h4><samp> print('Hello, World!')</samp></h4>
+<h4><samp>Hello, World!</samp></h4>
 <p><samp>My name is Herian, I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro. <br>
 I also work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎</samp>
 
