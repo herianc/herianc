@@ -2,8 +2,9 @@
   <h4>Hello, World!</h4>
   
   <p>
-    My name is Herian, I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro. <br><br>
-  I also work as a researcher at the Laboratory for Environmental Satellite Applications (LASA - UFRJ) 🛰️ 🌎
+    My name is Herian, I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro. <br>
+    <br>
+    I work as a researcher at the Laboratory of Environmental Satellite Applications (LASA - UFRJ), and I'm also part of the development team at UFRJ Analytica. 👨‍💻📊
   </p>
   
   <p>
