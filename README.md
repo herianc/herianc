@@ -17,7 +17,7 @@
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />    
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />  
-     <img height = 40 width = 30 src="https://www.svgrepo.com/show/353478/bash-icon.svg" />   
+     <img height = 40 width = 40 src="https://www.svgrepo.com/show/353478/bash-icon.svg" />   
     </div>
     
 </samp>
