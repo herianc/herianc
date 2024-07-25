@@ -1,5 +1,5 @@
   <div>
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXkycmUxa2Z4a3QzenY5NTB4MHU5dmcwbGs5bmZidjlsNzc5eTlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif' height = 200 align = 'right'>
+  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90bmRrc2I5aXZjY3p5cXBxZGtrZmJtMGZjZGhkMXpvNzc0NnFoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif' width = 350 align = 'right'>
   </div>
 <samp>
   <h3>Hello, World!</h3>
