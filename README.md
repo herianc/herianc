@@ -3,7 +3,9 @@
   </div>
 <samp>
   <h3>Hello, World!</h3>
-  
+  <p>
+    My name is Herian, I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro.<br><br>
+  </p>
   <p>
      <h3>Languages and tools</h3>
     <div>
