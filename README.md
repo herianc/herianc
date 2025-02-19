@@ -10,7 +10,7 @@
      <h3>Languages and tools</h3>
     <div>
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />      
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
      <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />  
