@@ -6,15 +6,15 @@
   <p>
     My name is Herian, I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro.<br><br>
   </p>
-  <p>
-     <h3>Languages and tools</h3>
-    <div>
-     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />      
-     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
-     <img height = 40 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />  
-    </div>
+  
+  <h3>Languages and tools</h3>
+
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img height="40px" src="https://skillicons.dev/icons?i=py,sklearn,flask,git,postgres,docker,linux&theme=dark" />
+  </a>
+</p>
+    
     
 </samp>
 
