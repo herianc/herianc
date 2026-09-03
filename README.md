@@ -1,20 +1,12 @@
   <div>
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90bmRrc2I5aXZjY3p5cXBxZGtrZmJtMGZjZGhkMXpvNzc0NnFoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif' width = 280 align = 'right'>
+  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlkd2dkOGJ5Mzh5aWM2ZWVkZGhuY2dtd3c0aTk2NjhpM3o1ZmowOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif' width = 250 align = 'right'>
   </div>
 <samp>
   <h3>Hello, World!</h3>
   <p>
-    My name is Herian, I am currently pursuing a degree in Mathematical and Earth Sciences at the Federal University of Rio de Janeiro.<br><br>
+    Undergraduate student in Mathematical and Earth Sciences at UFRJ, with an emphasis in Data Analysis.<br>Python enthusiast passionate about Data Science and Software Development. Currently working as a Data Engineer at the Innovation and Technology Committee of the Rio de Janeiro Municipal Health Secretariat (S/CIT)
   </p>
   
-  <h3>Languages and tools</h3>
-
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img height="45px" src="https://skillicons.dev/icons?i=py,flask,git,postgres,docker,linux&theme=dark" />
-  </a>
-</p>
-    
-    
+     
 </samp>
 
