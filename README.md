@@ -1,5 +1,5 @@
   <div>
-  <img src='https://media.tenor.com/GhoOExDUgWwAAAAj/unturned-a6.gif' width = 20https://media.tenor.com/GhoOExDUgWwAAAAj/unturned-a6.gif0 align = 'right'>
+  <img src='https://media.tenor.com/GhoOExDUgWwAAAAj/unturned-a6.gif' width = 200 align = 'right'>
   </div>
 <samp>
   <h3>Hello, World.</h3>
