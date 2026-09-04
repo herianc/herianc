@@ -1,5 +1,5 @@
   <div>
-  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlkd2dkOGJ5Mzh5aWM2ZWVkZGhuY2dtd3c0aTk2NjhpM3o1ZmowOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif' width = 250 align = 'right'>
+  <img src='https://media.tenor.com/GhoOExDUgWwAAAAj/unturned-a6.gif' width = 20https://media.tenor.com/GhoOExDUgWwAAAAj/unturned-a6.gif0 align = 'right'>
   </div>
 <samp>
   <h3>Hello, World.</h3>
